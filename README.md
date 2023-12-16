@@ -1,6 +1,6 @@
-# Brent's Bash qShell Config
+# Brent's Bash Shell Configuration
 
-> ***Brent's bash configuration. **
+> ***Brent's bash configuration. Up to date configs, frameworks and scripts from your favorite open source developer ;)***
 
 ---
 
@@ -8,11 +8,11 @@
 
 This directory contains rc files, scripts and all the good stuff.
 
-## Usage
+## Using the correct branch
 
-### Using the Correct branch
+This repository has a different branch for each different platform type (windows, etc) in addition to the standard `info` branch. **Make sure to select the correct branch to get started.**
 
-This repository has a different branch for each different platform type (windows, mac, Debian, arch... Detc). **Make sure to select the correct branch to get started.**
+### Using the command line to list and change branches
 
 ```bash
 # EXAMPLE: checking out the windows branch
@@ -24,34 +24,6 @@ git branch -v -a
 # Switch to windows branch (-c creates local branch)
 git switch -c windows
 ```
-
-
-
-Do note that the (`rc.bash`) file will need to be copied or symlinked to the users home directory (`~`) or whatever directory that bash is using as home.
-
-The easiest way to use these scripts is to simply run `install.sh` in this directory.
-
-```bash
-./install.sh
-```
-
-**This will:** 
-
-1. Link or copy the config files
-   - First trying `ln -s`
-   - Then using `cp -f`
-2. Add the `scripts` folder to the path
-3. Attempt to install `oh-my-bash` and theme it.
-
-## Location on File System
-
-This directory should live @
-
-```bash
-~/.config/shells/bash
-```
-
-## 
 
 ---
 
