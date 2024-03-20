@@ -48,7 +48,7 @@ The first argument is the file that is being linked. The second argument is what
 ```bash
 
 ln -s rc.bash $HOME\.bashrc
-```  
+```
 
 *Now let's pretend we are in the `/` directory instead of `$HOME\Settings\Shells\Bash\`*
 
@@ -68,7 +68,7 @@ Using the `-r` flag in conjunction with the `-s` flag, some installations of `ln
 
 Below is a list of each of the main configuration files for the *Bash Shell*.
 
-### RC File
+### RC *(Run Commands)* File
 
 The rc file is the main configuration file for the shell. It is loaded with each interactive bash shell.
 
