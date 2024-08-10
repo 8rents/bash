@@ -12,7 +12,7 @@ This directory contains rc files, scripts and all the good stuff.
 
 ## Using the correct branch
 
-**Right now you are on the Windows Branch**
+**Right now you are on the Msys2 (Windows) Branch**
 
 **Note:** *This repository has a different branch for each different platform type (windows, etc) in addition to the standard `info` branch. **Make sure to select the correct branch to get started.*
 
