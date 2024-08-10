@@ -113,4 +113,4 @@ Considered by some to be the foremost authority on dotfiles and dotfile manageme
 
 ---
 
-**(c) 2024 [Brenton Holiday](https://brenton.holiday)**
+**🤍 2024 [Brenton Holiday](https://brenton.holiday)**
